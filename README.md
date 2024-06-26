@@ -51,7 +51,7 @@ books table's category_name field references the name field in the categories ta
 
 ### Running the Project
 
-####Setup Database:
+#### Setup Database:
 
 Create a MySQL database named librarymanagementsystem.
 
